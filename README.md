@@ -6,3 +6,5 @@ Git test
 hoge
 
 foo
+
+bar
